@@ -1,7 +1,7 @@
 # The Gift Wrapping Algorithm
 
 ### Contributors
-* Jacob McKinnis
+* [Jacob McKinnis](https://githum.com/JacobMckinnis)
 * [Nathan Stoner](https://github.com/Naxhi)
 
 This short Java program uses a timed Gift Wrapping algorithm to calculate 
