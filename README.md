@@ -1,6 +1,8 @@
 # The Gift Wrapping Algorithm
 
-Co-Authored with Nathan Stoner and Jacob McKinnis
+### Contributors
+* Jacob McKinnis
+* [Nathan Stoner](https://github.com/Naxhi)
 
 This short Java program uses a timed Gift Wrapping algorithm to calculate 
 the smallest possible convex hull around a set of random points.
